@@ -1,4 +1,5 @@
 # Nine-Men-s-Morris
+Project for Swift Programming course at FMI summer semester 2020
 
 Swift console application implementing the Nine men's morris game
 
